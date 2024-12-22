@@ -1,1 +1,1 @@
-# lab6-cg
+Each exercise from fortune-ex1 to fortune-ex6.pyconatins the solution of the respective exercise, using algorithms for Delaunay Triangulation and Voronoi Diagrams. (Also Minimal Spanning Tree Algorithm for ex 3). The FortuneAlgorithmImplementation.py conatins a schematic python implmenetation of Fortunes's Algorithm for computing Voronoi Diagrams.
